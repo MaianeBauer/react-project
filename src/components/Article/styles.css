@@ -1,0 +1,26 @@
+#article {
+    display: flex;
+    gap: 1rem;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+#article .article-infos h2{
+font-size: 40px;
+font-weight: bold;
+color: #ffffff;
+margin-bottom: 12px;
+align-content: center;
+}
+#article .article-infos h3{
+    font-size: 20px ;
+    font-weight: 400;
+    color: #848383;
+    
+}
+#article img{
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    border-radius: 15px;
+}

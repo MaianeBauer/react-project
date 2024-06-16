@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #1c1d1f;
+    color: #cdd1c9;
+    font-family: 'Roboto', sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+section #article {
+
+    max-width: 1240px;
+    padding: 0 2rem;
+    margin: 4rem auto;
+    display: flex;
+    flex-direction: column;
+    gap: 46px;
+}
