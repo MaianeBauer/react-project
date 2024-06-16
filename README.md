@@ -31,6 +31,17 @@ Conclusão:
 
 Este projeto foi uma experiência gratificante que me permitiu aprimorar minhas habilidades em React e aprender valiosas lições sobre trabalho em equipe. Estou animada para continuar aprendendo e me desenvolvendo como desenvolvedora Front-end.
 
+
+
 Contato:
 
-Se você tiver interesse em saber mais sobre meu trabalho ou colaborar em projetos futuros, entre em contato comigo através de uma das minhas redes sociais ou meu Whats-app (54) 9.9993-1905
+Se você tiver interesse em saber mais sobre meu trabalho ou colaborar em projetos futuros, entre em contato comigo através de uma das minhas redes sociais ou meu 
+Whats-app (54) 9.9993-1905
+
+
+
+https://github.com/MaianeBauer/react-project/assets/142107409/cd6916be-8ef2-4b12-9feb-2b666d39d852
+
+
+
+
